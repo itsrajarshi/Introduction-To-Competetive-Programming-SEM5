@@ -8,7 +8,7 @@ This repository contains all the **class codes**, **assignments**, and **practic
 This repository was created as part of the **CSEN2191 - Introduction to Competitive Programming** course under the guidance of [**Mr. Kaviti Prasad**](https://www.linkedin.com/in/prasad-kaviti-a1083a4a/?originalSubdomain=in), Faculty at **GITAM University**.
 
 - **Faculty ID:** 502040  
-- **Contact:** 📞 7842898485 | 📧 pkaviti@gitam.edu  
+- **Contact:** 📧 pkaviti@gitam.edu  
 
 ---
 
