@@ -4,7 +4,7 @@
 
 #give user the option to take input of what they want to round to example to 4 or 5 minutes user input.
 #required least time complexity and space complexity
-#use readable code and comments and full names 
+#use readable code and comments and full names
 import time
 def round_time_to_nearest_interval(current_time, interval):
     # Convert current time to minutes
