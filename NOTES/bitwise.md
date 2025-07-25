@@ -14,3 +14,5 @@ Bitwise operators are used to perform operations on individual bits of integers.
 | `^`      | Bitwise XOR            | `x ^ y` | `5 ^ 3 → 101 ^ 011`         | `6`          |
 | `>>`     | Bitwise Right Shift    | `x >> 1`| `5 >> 1 → 00000101 → 00000010` | `2`       |
 | `<<`     | Bitwise Left Shift     | `x << 1`| `5 << 1 → 00000101 → 00001010` | `10`      |
+
+---
